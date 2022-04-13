@@ -9,4 +9,8 @@
 It is compulsory for new members to watch this video to understand our rules and expectations: https://youtu.be/dQw4w9WgXcQ
 
 ### Instructions for Deployment
-https://phoenixnap.com/kb/minecraft-dedicated-server
+
+1. Setup [link](https://phoenixnap.com/kb/minecraft-dedicated-server)
+2. If java installed already, git clone and git pull from repo
+3. Change RAM allocated accordingly in start_server
+4. Use [tmux](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session) to keep the server running even after logging out 
