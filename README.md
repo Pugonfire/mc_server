@@ -7,3 +7,6 @@
 
 ### Intro Video for New Members
 It is compulsory for new members to watch this video to understand our rules and expectations: https://youtu.be/dQw4w9WgXcQ
+
+### Instructions for Deployment
+https://phoenixnap.com/kb/minecraft-dedicated-server
