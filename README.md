@@ -10,7 +10,7 @@ It is compulsory for new members to watch this video to understand our rules and
 
 ### Instructions for Deployment
 
-1. Download java [how-to](https://www.itzgeek.com/how-tos/linux/how-to-install-oracle-java-jdk-17-on-linux.html)
+1. Download java [how-to](https://www.linuxcapable.com/how-to-install-java-17-lts-jdk-17-on-ubuntu-20-04/)
 2. If java installed already, git clone and git pull from repo
 3. Change RAM allocated accordingly in start_server
 4. Use [tmux](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session) to keep the server running even after logging out 
