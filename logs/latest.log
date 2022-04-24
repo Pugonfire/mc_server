@@ -1,85 +1,13 @@
-[00:00:42] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.27442726330582445
-[00:04:38] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 1.454644787558974
-[00:08:04] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 1.1531107146238355
-[00:08:04] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.9185824420305835
-[00:26:38] [Server thread/INFO]: MrPwks has made the advancement [Fishy Business]
-[00:28:59] [Server thread/INFO]: lazydetective02 lost connection: Timed out
-[00:28:59] [Server thread/INFO]: lazydetective02 left the game
-[00:28:59] [Server thread/WARN]: handleDisconnection() called twice
-[00:31:07] [User Authenticator #13/INFO]: UUID of player lazydetective02 is d926de87-bbcb-4e6f-b246-6d2579b6f766
-[00:31:08] [Server thread/INFO]: lazydetective02[/111.65.39.203:51797] logged in with entity id 88561 at (3153.6360109919083, 62.07326432466507, -1885.3709640283475)
-[00:31:08] [Server thread/INFO]: lazydetective02 joined the game
-[00:34:19] [Server thread/INFO]: Pugonfire drowned
-[00:35:21] [Server thread/INFO]: Teleported Pugonfire to lazydetective02
-[00:43:27] [Server thread/INFO]: <Pugonfire> sleeep
-[00:43:44] [Server thread/INFO]: <Pugonfire> wx
-[00:43:47] [Server thread/INFO]: <Pugonfire> sleeeeeeep
-[00:45:03] [Server thread/INFO]: Pugonfire has made the advancement [Fishy Business]
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 10.22797294355587,0.0,-1.0108903886866756
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 10.625195135080048,0.0,-1.0501325376519617
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 10.982695097981377,0.0,-1.0854504707851902
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 11.344251314002577,0.0,-1.1211687444770178
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 11.709458157734844,0.0,-1.1572473246619666
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 12.038144308386563,0.0,-1.1897180459682204
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 12.333961836136496,0.0,-1.2189416943697324
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 12.600197604058849,0.0,-1.245242977234284
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 12.839809788841194,0.0,-1.2689141311852836
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 13.055460749432768,0.0,-1.2902181691767964
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 13.249546608823493,0.0,-1.309391802861228
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 13.424223877647819,0.0,-1.326648072720218
-[00:51:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved too quickly! 13.581433415425181,0.0,-1.342178715181717
-[00:51:45] [Server thread/WARN]: Boat (vehicle of MrPwks) moved too quickly! 10.071781957273288,0.0,-1.1466457883586827
-[00:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3837ms or 76 ticks behind
-[00:51:47] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.29188131129285466
-[00:52:20] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.3699660872553068
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 0.359717182712302
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 0.7456886896284232
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 1.130501522422037
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 1.5141789378162684
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 1.8967486506148816
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 2.2782441909348563
-[00:52:43] [Server thread/WARN]: Boat (vehicle of Pugonfire) moved wrongly! 2.658701860257679
-[00:52:50] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.27054271960196274
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.36072641397731786
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.3168102089157401
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.31622620641928734
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.29582333093912894
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.2930388193535691
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.6789568113117639
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 1.0598558325837075
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 1.4347566533633653
-[00:52:51] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 1.4153110891506913
-[00:53:05] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.38882663990307265
-[00:53:05] [Server thread/WARN]: Boat (vehicle of MrPwks) moved wrongly! 0.38882663990307265
-[00:53:21] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.31188342579844175
-[00:53:21] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.6881456750661528
-[00:53:21] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 1.0652392442702876
-[00:53:21] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 1.443098879065019
-[00:53:21] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 1.8216647068775274
-[00:53:21] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 2.2008806779990664
-[00:53:36] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.31332750155229405
-[00:53:37] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.36905430133469963
-[00:53:37] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.3685145487045247
-[00:53:37] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.3726565857748483
-[00:53:37] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.38368440015278793
-[00:53:37] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.4402051867843966
-[00:53:37] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.4402051867843966
-[00:53:38] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.4402051867843966
-[00:53:38] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.26583243910226884
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[00:53:39] [Server thread/WARN]: Boat (vehicle of lazydetective02) moved wrongly! 0.2746570427432289
-[01:07:00] [Server thread/INFO]: Pugonfire lost connection: Disconnected
-[01:07:00] [Server thread/INFO]: Pugonfire left the game
-[01:07:04] [Server thread/INFO]: MrPwks lost connection: Disconnected
-[01:07:04] [Server thread/INFO]: MrPwks left the game
-[01:07:09] [Server thread/INFO]: lazydetective02 lost connection: Disconnected
-[01:07:09] [Server thread/INFO]: lazydetective02 left the game
-[06:05:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5667ms or 113 ticks behind
+[00:00:57] [Server thread/INFO]: Pugonfire fell from a high place
+[00:01:41] [Server thread/INFO]: MrPwks was slain by Piglin
+[00:02:36] [Server thread/INFO]: MrPwks has made the advancement [Ice Bucket Challenge]
+[00:05:23] [Server thread/INFO]: Pugonfire has made the advancement [Ice Bucket Challenge]
+[00:05:53] [Server thread/INFO]: MrPwks burned to death
+[00:09:28] [Server thread/INFO]: MrPwks has made the advancement [Oh Shiny]
+[00:25:48] [Server thread/INFO]: lazydetective02 has made the advancement [Who is Cutting Onions?]
+[00:41:42] [Server thread/INFO]: Pugonfire lost connection: Disconnected
+[00:41:42] [Server thread/INFO]: Pugonfire left the game
+[00:41:44] [Server thread/INFO]: MrPwks lost connection: Disconnected
+[00:41:44] [Server thread/INFO]: MrPwks left the game
+[00:41:46] [Server thread/INFO]: lazydetective02 lost connection: Disconnected
+[00:41:46] [Server thread/INFO]: lazydetective02 left the game
