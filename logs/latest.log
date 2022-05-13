@@ -1,13 +1,58 @@
-[00:00:57] [Server thread/INFO]: Pugonfire fell from a high place
-[00:01:41] [Server thread/INFO]: MrPwks was slain by Piglin
-[00:02:36] [Server thread/INFO]: MrPwks has made the advancement [Ice Bucket Challenge]
-[00:05:23] [Server thread/INFO]: Pugonfire has made the advancement [Ice Bucket Challenge]
-[00:05:53] [Server thread/INFO]: MrPwks burned to death
-[00:09:28] [Server thread/INFO]: MrPwks has made the advancement [Oh Shiny]
-[00:25:48] [Server thread/INFO]: lazydetective02 has made the advancement [Who is Cutting Onions?]
-[00:41:42] [Server thread/INFO]: Pugonfire lost connection: Disconnected
-[00:41:42] [Server thread/INFO]: Pugonfire left the game
-[00:41:44] [Server thread/INFO]: MrPwks lost connection: Disconnected
-[00:41:44] [Server thread/INFO]: MrPwks left the game
-[00:41:46] [Server thread/INFO]: lazydetective02 lost connection: Disconnected
-[00:41:46] [Server thread/INFO]: lazydetective02 left the game
+[00:04:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:05:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:05:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:05:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:05:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:05:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:05:01] [Worker-Main-4/INFO]: Loaded 7 recipes
+[00:05:02] [Worker-Main-4/INFO]: Loaded 1141 advancements
+[00:05:04] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[00:05:04] [Server thread/INFO]: Loading properties
+[00:05:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:05:04] [Server thread/INFO]: Generating keypair
+[00:05:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:05:04] [Server thread/INFO]: Using epoll channel type
+[00:05:04] [Server thread/INFO]: Preparing level "world"
+[00:05:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:05:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:05:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:05:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:05:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:05:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:05:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:05:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:05:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:05:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:05:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:05:10] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[00:05:10] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[00:05:11] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[00:05:11] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[00:05:15] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[00:05:15] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[00:05:16] [Worker-Main-5/INFO]: Preparing spawn area: 25%
+[00:05:16] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[00:05:17] [Server thread/INFO]: Time elapsed: 11931 ms
+[00:05:17] [Server thread/INFO]: Done (12.101s)! For help, type "help"
+[00:07:41] [User Authenticator #1/INFO]: UUID of player MrPwks is a63a7b7f-ee0f-4373-b9a0-6053bdb52292
+[00:07:41] [Server thread/INFO]: MrPwks[/116.14.250.127:49904] logged in with entity id 111 at (3981.654394987454, 80.0, 145.05476182732866)
+[00:07:41] [Server thread/INFO]: MrPwks joined the game
+[00:08:01] [Server thread/INFO]: MrPwks lost connection: Disconnected
+[00:08:01] [Server thread/INFO]: MrPwks left the game
+[00:09:00] [Server thread/INFO]: Stopping the server
+[00:09:00] [Server thread/INFO]: Stopping server
+[00:09:00] [Server thread/INFO]: Saving players
+[00:09:00] [Server thread/INFO]: Saving worlds
+[00:09:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:09:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:09:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
