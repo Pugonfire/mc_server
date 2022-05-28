@@ -1,215 +1,113 @@
-[00:00:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:00:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:00:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:00:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:00:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:00:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:00:44] [Worker-Main-6/INFO]: Loaded 7 recipes
-[00:00:45] [Worker-Main-6/INFO]: Loaded 1141 advancements
-[00:00:46] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[00:00:46] [Server thread/INFO]: Loading properties
-[00:00:46] [Server thread/INFO]: Default game type: SURVIVAL
-[00:00:46] [Server thread/INFO]: Generating keypair
-[00:00:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:00:47] [Server thread/INFO]: Using epoll channel type
-[00:00:47] [Server thread/INFO]: Preparing level "world"
-[00:00:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:00:57] [Worker-Main-4/INFO]: Preparing spawn area: 17%
-[00:00:58] [Worker-Main-4/INFO]: Preparing spawn area: 56%
-[00:00:58] [Worker-Main-6/INFO]: Preparing spawn area: 89%
-[00:00:58] [Server thread/INFO]: Time elapsed: 11244 ms
-[00:00:58] [Server thread/INFO]: Done (11.426s)! For help, type "help"
-[00:02:51] [User Authenticator #1/INFO]: UUID of player MrPwks is a63a7b7f-ee0f-4373-b9a0-6053bdb52292
-[00:02:51] [Server thread/INFO]: MrPwks[/116.15.168.223:55254] logged in with entity id 239 at (702.2572429615698, 41.0, -334.2449788608809)
-[00:02:51] [Server thread/INFO]: MrPwks joined the game
-[00:03:18] [User Authenticator #2/INFO]: UUID of player lazydetective02 is d926de87-bbcb-4e6f-b246-6d2579b6f766
-[00:03:18] [Server thread/INFO]: lazydetective02[/111.65.37.55:1590] logged in with entity id 396 at (8.5, 73.0, -2.5)
-[00:03:18] [Server thread/INFO]: lazydetective02 joined the game
-[00:03:30] [Server thread/INFO]: Teleported lazydetective02 to MrPwks
-[00:05:33] [Server thread/INFO]: lazydetective02 was slain by Piglin
-[00:06:02] [Server thread/INFO]: Teleported lazydetective02 to MrPwks
-[00:07:03] [Server thread/INFO]: lazydetective02 was slain by Hoglin
-[00:07:24] [Server thread/INFO]: Teleported lazydetective02 to MrPwks
-[00:08:01] [Server thread/INFO]: MrPwks fell from a high place
-[00:08:01] [Server thread/INFO]: lazydetective02 was slain by Hoglin
-[00:08:20] [Server thread/INFO]: Teleported MrPwks to lazydetective02
-[00:08:20] [Server thread/WARN]: MrPwks moved too quickly! -1.0,-15.0,-12.0
-[00:08:20] [Server thread/WARN]: MrPwks moved too quickly! -1.0,-15.0,-12.0
-[00:08:20] [Server thread/WARN]: MrPwks moved too quickly! -1.0,-15.0,-12.0
-[00:09:38] [Server thread/INFO]: lazydetective02 was blown up by Creeper
-[00:10:59] [Server thread/INFO]: lazydetective02 drowned whilst trying to escape Drowned
-[00:11:51] [Server thread/INFO]: lazydetective02 drowned
-[00:12:47] [Server thread/INFO]: lazydetective02 drowned
-[00:14:02] [Server thread/INFO]: lazydetective02 drowned
-[00:14:47] [User Authenticator #3/INFO]: UUID of player Pugonfire is f18a86fa-4938-4553-9589-0b5bf0dec7f6
-[00:14:47] [Server thread/INFO]: Pugonfire[/116.15.168.223:50262] logged in with entity id 3124 at (703.0085691907439, 42.0, -331.7578398808406)
-[00:14:47] [Server thread/INFO]: Pugonfire joined the game
-[00:15:50] [Server thread/INFO]: Teleported lazydetective02 to Pugonfire
-[00:16:01] [Server thread/INFO]: Teleported MrPwks to Pugonfire
-[00:16:05] [Server thread/INFO]: MrPwks was slain by Pugonfire using [immigrant]
-[00:16:12] [Server thread/INFO]: Pugonfire was slain by Hoglin
-[00:17:06] [Server thread/INFO]: Teleported Pugonfire to lazydetective02
-[00:17:18] [Server thread/INFO]: Teleported MrPwks to Pugonfire
-[00:17:37] [Server thread/INFO]: MrPwks has made the advancement [War Pigs]
-[00:18:00] [Server thread/INFO]: lazydetective02 was slain by Piglin Brute
-[00:18:20] [Server thread/INFO]: Pugonfire was slain by Piglin Brute
-[00:18:40] [Server thread/INFO]: Teleported Pugonfire to MrPwks
-[00:18:50] [Server thread/INFO]: Teleported lazydetective02 to MrPwks
-[00:20:14] [Server thread/INFO]: lazydetective02 was slain by Piglin Brute
-[00:20:57] [Server thread/INFO]: Pugonfire was slain by Piglin Brute
-[00:21:14] [Server thread/INFO]: lazydetective02 drowned
-[00:21:28] [Server thread/INFO]: Teleported Pugonfire to MrPwks
-[00:21:38] [Server thread/INFO]: Teleported lazydetective02 to MrPwks
-[00:22:06] [Server thread/INFO]: lazydetective02 was slain by Piglin Brute
-[00:22:46] [Server thread/INFO]: Teleported lazydetective02 to Pugonfire
-[00:24:39] [Server thread/INFO]: lazydetective02 has made the advancement [War Pigs]
-[00:25:29] [Server thread/INFO]: MrPwks was slain by Hoglin
-[00:25:44] [Server thread/INFO]: Teleported MrPwks to Pugonfire
-[00:26:49] [Server thread/INFO]: lazydetective02 was slain by Hoglin
-[00:26:52] [Server thread/INFO]: MrPwks has made the advancement [A Throwaway Joke]
-[00:27:11] [Server thread/INFO]: Pugonfire fell from a high place
-[00:27:33] [Server thread/INFO]: Teleported Pugonfire to MrPwks
-[00:27:42] [Server thread/INFO]: Teleported lazydetective02 to MrPwks
-[00:31:16] [Server thread/INFO]: Pugonfire tried to swim in lava
-[00:31:48] [Server thread/INFO]: Teleported Pugonfire to MrPwks
-[00:34:18] [Server thread/INFO]: MrPwks fell from a high place
-[00:34:34] [Server thread/INFO]: Teleported MrPwks to Pugonfire
-[00:40:52] [Server thread/INFO]: MrPwks discovered the floor was lava
-[00:41:06] [Server thread/INFO]: lazydetective02 discovered the floor was lava
-[00:44:13] [Server thread/INFO]: MrPwks was blown up by Creeper
-[00:44:28] [Server thread/INFO]: Teleported lazydetective02 to Pugonfire
-[00:44:35] [Server thread/INFO]: Teleported MrPwks to Pugonfire
-[00:49:41] [Server thread/INFO]: lazydetective02 tried to swim in lava
-[00:50:34] [Server thread/INFO]: An entity is required to run this command here
-[00:50:42] [Server thread/INFO]: Teleported Pugonfire to lazydetective02
-[00:52:26] [Server thread/INFO]: MrPwks was shot by Piglin
-[00:55:52] [Server thread/INFO]: lazydetective02 was slain by Zombie
-[00:59:23] [Server thread/INFO]: lazydetective02 lost connection: Disconnected
-[00:59:23] [Server thread/INFO]: lazydetective02 left the game
-[00:59:23] [Server thread/WARN]: handleDisconnection() called twice
-[01:00:03] [User Authenticator #4/INFO]: UUID of player lazydetective02 is d926de87-bbcb-4e6f-b246-6d2579b6f766
-[01:00:03] [Server thread/INFO]: lazydetective02[/111.65.37.55:63364] logged in with entity id 12085 at (21.006605244704595, 65.25220334025373, -1.0057018253283758)
-[01:00:03] [Server thread/INFO]: lazydetective02 joined the game
-[01:04:21] [Server thread/INFO]: MrPwks was shot by Skeleton
-[01:09:55] [Server thread/INFO]: lazydetective02 was slain by Drowned
-[01:15:19] [Server thread/INFO]: lazydetective02 lost connection: Timed out
-[01:15:19] [Server thread/INFO]: lazydetective02 left the game
-[01:15:41] [User Authenticator #5/INFO]: UUID of player lazydetective02 is d926de87-bbcb-4e6f-b246-6d2579b6f766
-[01:15:41] [Server thread/INFO]: lazydetective02[/111.65.37.55:50530] logged in with entity id 15390 at (33.75649713672628, 61.313612819579774, -2.219544344807012)
-[01:15:41] [Server thread/INFO]: lazydetective02 joined the game
-[01:15:45] [Server thread/INFO]: lazydetective02 drowned
-[01:18:55] [Server thread/INFO]: Pugonfire fell from a high place
-[01:19:47] [Server thread/INFO]: MrPwks fell from a high place
-[01:24:42] [Server thread/INFO]: MrPwks was shot by Pugonfire
-[01:25:54] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:26:21] [Server thread/WARN]: Pugonfire moved wrongly!
-[01:27:08] [Server thread/INFO]: MrPwks was shot by Pugonfire
-[01:27:54] [Server thread/INFO]: MrPwks fell off scaffolding
-[01:28:25] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:28:46] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:29:27] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:30:22] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:30:55] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:31:52] [Server thread/INFO]: MrPwks fell from a high place
-[01:32:37] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:37:03] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:39:46] [Server thread/INFO]: MrPwks fell from a high place
-[01:40:10] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:40:42] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:41:10] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:43:18] [Server thread/INFO]: MrPwks hit the ground too hard
-[01:43:35] [Server thread/INFO]: lazydetective02 was slain by Drowned
-[01:44:53] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:45:50] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:46:25] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:46:57] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:47:43] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:48:15] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:49:31] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:49:37] [Server thread/INFO]: lazydetective02 was impaled by Drowned
-[01:49:42] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:50:15] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:50:32] [Server thread/INFO]: lazydetective02 was shot by Skeleton
-[01:50:58] [Server thread/INFO]: Pugonfire was impaled by Drowned
-[01:51:00] [Server thread/INFO]: MrPwks was impaled by Drowned
-[01:51:16] [Server thread/INFO]: lazydetective02 was impaled by Drowned
-[01:51:35] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:51:48] [Server thread/INFO]: MrPwks was impaled by Drowned
-[01:52:21] [Server thread/INFO]: MrPwks was impaled by Drowned
-[01:52:28] [Server thread/INFO]: lazydetective02 was shot by Skeleton
-[01:53:19] [Server thread/INFO]: MrPwks was slain by Drowned
-[01:53:53] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:54:42] [Server thread/INFO]: MrPwks was shot by Skeleton
-[01:55:22] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:55:32] [Server thread/INFO]: lazydetective02 was shot by Skeleton
-[01:55:46] [Server thread/INFO]: MrPwks was shot by Skeleton
-[01:56:04] [Server thread/INFO]: Pugonfire burned to death
-[01:56:19] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:56:45] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:57:31] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[01:58:07] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[01:59:03] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:01:01] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:01:43] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[02:02:13] [Server thread/INFO]: Pugonfire was slain by Drowned
-[02:03:05] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:05:18] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:06:06] [Server thread/INFO]: MrPwks was slain by Drowned
-[02:07:07] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:08:17] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[02:09:04] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:09:45] [Server thread/INFO]: Pugonfire was shot by lazydetective02
-[02:09:58] [Server thread/INFO]: MrPwks was shot by lazydetective02
-[02:10:24] [Server thread/INFO]: lazydetective02 was slain by MrPwks
-[02:10:41] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:10:50] [Server thread/INFO]: MrPwks was slain by Drowned
-[02:11:18] [Server thread/INFO]: lazydetective02 drowned
-[02:11:25] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:11:49] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:12:04] [Server thread/INFO]: MrPwks was slain by Pugonfire
-[02:12:12] [Server thread/INFO]: lazydetective02 drowned whilst trying to escape Drowned
-[02:13:11] [Server thread/INFO]: lazydetective02 drowned whilst trying to escape Drowned
-[02:13:38] [Server thread/INFO]: lazydetective02 was slain by Zombie
-[02:14:01] [Server thread/INFO]: Pugonfire was slain by MrPwks
-[02:14:09] [Server thread/INFO]: lazydetective02 was shot by Skeleton
-[02:14:21] [Server thread/INFO]: MrPwks was slain by Drowned
-[02:14:24] [Server thread/INFO]: Pugonfire lost connection: Disconnected
-[02:14:24] [Server thread/INFO]: Pugonfire left the game
-[02:14:36] [Server thread/INFO]: lazydetective02 was slain by Zombie
-[02:16:06] [Server thread/INFO]: MrPwks lost connection: Disconnected
-[02:16:06] [Server thread/INFO]: MrPwks left the game
-[02:16:13] [Server thread/INFO]: lazydetective02 lost connection: Disconnected
-[02:16:13] [Server thread/INFO]: lazydetective02 left the game
-[02:16:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:16:25] [Server thread/INFO]: wei xinnnnnnnnnn<--[HERE]
-[02:16:31] [Server thread/INFO]: Stopping the server
-[02:16:31] [Server thread/INFO]: Stopping server
-[02:16:32] [Server thread/INFO]: Saving players
-[02:16:32] [Server thread/INFO]: Saving worlds
-[02:16:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:16:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:16:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:51:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:52:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:52:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:52:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:52:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:52:01] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:52:02] [Worker-Main-6/INFO]: Loaded 7 recipes
+[00:52:03] [Worker-Main-6/INFO]: Loaded 1141 advancements
+[00:52:04] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[00:52:04] [Server thread/INFO]: Loading properties
+[00:52:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:04] [Server thread/INFO]: Generating keypair
+[00:52:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:52:05] [Server thread/INFO]: Using epoll channel type
+[00:52:05] [Server thread/INFO]: Preparing level "WX"
+[00:52:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:52:16] [Worker-Main-4/INFO]: Preparing spawn area: 10%
+[00:52:16] [Worker-Main-4/INFO]: Preparing spawn area: 42%
+[00:52:17] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[00:52:17] [Server thread/INFO]: Time elapsed: 11991 ms
+[00:52:17] [Server thread/INFO]: Done (12.232s)! For help, type "help"
+[00:52:34] [User Authenticator #1/INFO]: UUID of player MrPwks is a63a7b7f-ee0f-4373-b9a0-6053bdb52292
+[00:52:35] [Server thread/INFO]: MrPwks[/116.15.239.224:50499] logged in with entity id 64 at (-1376.346142772297, 20.0, -639.595916995861)
+[00:52:35] [Server thread/INFO]: MrPwks joined the game
+[00:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[00:53:14] [User Authenticator #2/INFO]: UUID of player lazydetective02 is d926de87-bbcb-4e6f-b246-6d2579b6f766
+[00:53:14] [Server thread/INFO]: lazydetective02[/111.65.60.115:28527] logged in with entity id 400 at (-1374.5922670325074, 37.0, -655.7438030264684)
+[00:53:14] [Server thread/INFO]: lazydetective02 joined the game
+[00:57:58] [User Authenticator #3/INFO]: UUID of player Pugonfire is f18a86fa-4938-4553-9589-0b5bf0dec7f6
+[00:57:58] [Server thread/INFO]: Pugonfire[/116.15.239.224:50285] logged in with entity id 1344 at (-1376.699999988079, 37.0, -656.9301539983863)
+[00:57:58] [Server thread/INFO]: Pugonfire joined the game
+[01:00:55] [Server thread/INFO]: Pugonfire has made the advancement [Suit Up]
+[01:02:14] [Server thread/INFO]: MrPwks fell from a high place
+[01:02:22] [Server thread/INFO]: [MrPwks: Teleported MrPwks to Pugonfire]
+[01:02:44] [Server thread/INFO]: lazydetective02 has made the advancement [Suit Up]
+[01:05:18] [Server thread/INFO]: MrPwks has made the advancement [Suit Up]
+[01:07:01] [Server thread/INFO]: Pugonfire has made the advancement [Sweet Dreams]
+[01:07:16] [Server thread/INFO]: lazydetective02 has made the advancement [Sweet Dreams]
+[01:07:17] [Server thread/INFO]: MrPwks has made the advancement [Sweet Dreams]
+[01:07:33] [Server thread/INFO]: MrPwks has made the advancement [Take Aim]
+[01:13:51] [Server thread/INFO]: Pugonfire has made the advancement [Hot Stuff]
+[01:19:37] [Server thread/INFO]: Pugonfire has made the advancement [We Need to Go Deeper]
+[01:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[01:19:39] [Server thread/INFO]: lazydetective02 has made the advancement [We Need to Go Deeper]
+[01:19:57] [Server thread/INFO]: MrPwks has made the advancement [We Need to Go Deeper]
+[01:22:24] [Server thread/INFO]: lazydetective02 walked into danger zone due to Magma Cube
+[01:23:01] [Server thread/INFO]: [lazydetective02: Teleported lazydetective02 to MrPwks]
+[01:23:50] [Server thread/INFO]: lazydetective02 tried to swim in lava to escape Magma Cube
+[01:24:14] [Server thread/INFO]: [lazydetective02: Teleported lazydetective02 to MrPwks]
+[01:24:37] [Server thread/INFO]: lazydetective02 tried to swim in lava
+[01:25:01] [Server thread/INFO]: [lazydetective02: Teleported lazydetective02 to Pugonfire]
+[01:25:41] [Server thread/INFO]: lazydetective02 tried to swim in lava
+[01:26:11] [Server thread/INFO]: [lazydetective02: Teleported lazydetective02 to MrPwks]
+[01:26:12] [Server thread/INFO]: [Pugonfire: Teleported Pugonfire to MrPwks]
+[01:26:12] [Server thread/WARN]: Pugonfire moved too quickly! -70.10076907244667,-8.0,27.662366307799658
+[01:28:42] [Server thread/INFO]: lazydetective02 was shot by Piglin
+[01:29:14] [Server thread/INFO]: MrPwks has made the advancement [Those Were the Days]
+[01:30:02] [Server thread/INFO]: Pugonfire has made the advancement [Those Were the Days]
+[01:38:07] [Server thread/INFO]: MrPwks has made the advancement [Ice Bucket Challenge]
+[01:38:43] [Server thread/INFO]: Pugonfire has made the advancement [Ice Bucket Challenge]
+[01:39:07] [Server thread/INFO]: MrPwks has made the advancement [Who is Cutting Onions?]
+[01:40:49] [Server thread/INFO]: Pugonfire has made the advancement [Who is Cutting Onions?]
+[01:50:32] [Server thread/INFO]: [MrPwks: Teleported lazydetective02 to MrPwks]
+[01:50:33] [Server thread/INFO]: lazydetective02 has made the advancement [Those Were the Days]
+[01:50:44] [Server thread/INFO]: lazydetective02 was shot by Piglin
+[01:51:15] [Server thread/INFO]: [Pugonfire: Teleported lazydetective02 to MrPwks]
+[02:01:36] [Server thread/INFO]: Pugonfire has made the advancement [Take Aim]
+[02:12:16] [Server thread/INFO]: MrPwks has made the advancement [A Terrible Fortress]
+[02:12:19] [Server thread/INFO]: lazydetective02 has made the advancement [A Terrible Fortress]
+[02:12:23] [Server thread/INFO]: Pugonfire has made the advancement [A Terrible Fortress]
+[02:12:51] [Server thread/INFO]: MrPwks has made the advancement [Into Fire]
+[02:13:26] [Server thread/INFO]: lazydetective02 has made the advancement [Into Fire]
+[02:13:38] [Server thread/INFO]: Pugonfire has made the advancement [Into Fire]
+[02:16:44] [Server thread/INFO]: <Pugonfire> 540 250 565
+[02:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
+[02:29:21] [Server thread/INFO]: MrPwks lost connection: Disconnected
+[02:29:21] [Server thread/INFO]: MrPwks left the game
+[02:29:22] [Server thread/INFO]: Pugonfire lost connection: Disconnected
+[02:29:22] [Server thread/INFO]: Pugonfire left the game
+[02:29:24] [Server thread/INFO]: lazydetective02 lost connection: Disconnected
+[02:29:24] [Server thread/INFO]: lazydetective02 left the game
+[02:29:42] [Server thread/INFO]: Stopping the server
+[02:29:42] [Server thread/INFO]: Stopping server
+[02:29:42] [Server thread/INFO]: Saving players
+[02:29:42] [Server thread/INFO]: Saving worlds
+[02:29:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[WX]'/minecraft:overworld
+[02:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[WX]'/minecraft:the_end
+[02:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[WX]'/minecraft:the_nether
+[02:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (WX): All chunks are saved
+[02:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
